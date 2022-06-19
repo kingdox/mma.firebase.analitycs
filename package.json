@@ -1,0 +1,28 @@
+{
+    "name": "com.kingdox.mma.business.firebase.analitycs",
+    "version": "1.0.2",
+    "displayName": "Kingdox MMA.Business.Firebase.Analitycs",
+    "description": "Firebase Analitycs Module",
+    "unity": "2020.1",
+    "keywords": [
+        "architecture",
+        "modular",
+        "middleware",
+        "unity"
+    ],
+    "author": {
+        "name": "Kingdox",
+        "email": "arpaxavier@gmail.com",
+        "url": "https://ch4b13r.itch.io/"
+    },
+    "hideInEditor": true,
+    "repository": {
+        "type": "git",
+        "url": "git+https://kingdox@github.com/kingdox/mma.business.firebase.analitycs.git"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://www.google.com/"
+    },
+    "homepage": "https://github.com/kingdox"
+}
