@@ -1,7 +1,7 @@
 {
-    "name": "com.kingdox.mma.business.firebase.analitycs",
+    "name": "com.kingdox.mma.firebase.analitycs",
     "version": "1.0.2",
-    "displayName": "Kingdox MMA.Business.Firebase.Analitycs",
+    "displayName": "Kingdox MMA.Firebase.Analitycs",
     "description": "Firebase Analitycs Module",
     "unity": "2020.1",
     "keywords": [
@@ -18,7 +18,7 @@
     "hideInEditor": true,
     "repository": {
         "type": "git",
-        "url": "git+https://kingdox@github.com/kingdox/mma.business.firebase.analitycs.git"
+        "url": "git+https://kingdox@github.com/kingdox/mma.firebase.analitycs.git"
     },
     "license": "ISC",
     "bugs": {
