@@ -1,5 +1,5 @@
 {
-    "name": "MMA.Business.Firebase.Analitycs",
+    "name": "MMA.Firebase.Analitycs",
     "references": [
         "GUID:802cda87e14734b9bb05c37c9cd64a18"
     ],
