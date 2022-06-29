@@ -11,13 +11,13 @@ namespace MMA.Business_Firebase_Analitycs
     public static partial class Key
     {
         // public const string _   = KeyData._;
-        public static string LogEvent = "Business_Firebase_Analitycs_LogEvent";
+        public static string LogEvent = "Firebase_Analitycs_LogEvent";
     }
     public static partial class Import
     {
         //public const string _ = _;
     }
-    public sealed partial class Business_Firebase_Analitycs_Module : Module
+    public sealed partial class Firebase_Analitycs_Module : Module
     {
         #region References
         //[Header("Applications")]
