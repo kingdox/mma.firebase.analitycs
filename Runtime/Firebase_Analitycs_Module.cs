@@ -6,7 +6,7 @@
 //using UnityEngine;
 using Firebase.Analytics;
 #endregion
-namespace MMA.Business_Firebase_Analitycs
+namespace MMA.Firebase_Analitycs
 {
     public static partial class Key
     {
